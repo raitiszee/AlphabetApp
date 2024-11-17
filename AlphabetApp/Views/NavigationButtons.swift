@@ -28,7 +28,3 @@ struct NavigationButtons: View {
         .padding()
     }
 }
-
-#Preview {
-    NavigationButtons()
-}
